@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="3ec65a7c-a26a-40d9-a59d-4b9905134008" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>On the Equality of the Sexes</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="001-cse-title-page.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>About this text</text>
+      </navLabel>
+      <content src="002-cse-about-page.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="003-cse-introduction.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>On the Equality of the Sexes</text>
+      </navLabel>
+      <content src="004-equality-of-the-sexes-part-i.xhtml"/>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Part I (Published Mar. 1790)</text>
+        </navLabel>
+        <content src="004-equality-of-the-sexes-part-i.xhtml"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Part II (Published Apr. 1790)</text>
+        </navLabel>
+        <content src="005-equality-of-the-sexes-part-ii.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

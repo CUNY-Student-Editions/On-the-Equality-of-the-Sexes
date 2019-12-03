@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>On the Equality of the Sexes</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Murray, Judith Sargent">Judith Sargent Murray</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">3ec65a7c-a26a-40d9-a59d-4b9905134008</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>CUNY Student Editions</dc:publisher>
+    <dc:date>2019-12-02T05:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">2423a6d3-ecba-4e30-a406-d2a4c962ba37</dc:identifier>
+    <meta content="{&quot;Judith Sargent Murray&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="2019" name="calibre:series"/>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta name="calibre:title_sort" content="Equality of the Sexes, On the"/>
+  </metadata>
+  <manifest>
+    <item href="001-cse-title-page.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="002-cse-about-page.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="003-cse-introduction.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="004-equality-of-the-sexes-part-i.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="005-equality-of-the-sexes-part-ii.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="CUNY-Student-Editions-logo.png" id="id5" media-type="image/png"/>
+    <item href="editor-pic.jpg" id="id6" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide/>
+</package>
