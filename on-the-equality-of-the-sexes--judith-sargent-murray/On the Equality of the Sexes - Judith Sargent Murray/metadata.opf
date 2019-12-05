@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>On the Equality of the Sexes</dc:title>
@@ -13,15 +13,17 @@
     <meta content="2019" name="calibre:series"/>
     <meta content="2.0" name="calibre:series_index"/>
     <meta name="calibre:title_sort" content="Equality of the Sexes, On the"/>
+    <meta name="cover" content="cover"/>
   </metadata>
   <manifest>
     <item href="001-cse-title-page.xhtml" id="start" media-type="application/xhtml+xml"/>
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="styles.css" id="id" media-type="text/css"/>
     <item href="002-cse-about-page.xhtml" id="id1" media-type="application/xhtml+xml"/>
     <item href="003-cse-introduction.xhtml" id="id2" media-type="application/xhtml+xml"/>
     <item href="004-equality-of-the-sexes-part-i.xhtml" id="id3" media-type="application/xhtml+xml"/>
     <item href="005-equality-of-the-sexes-part-ii.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
     <item href="CUNY-Student-Editions-logo.png" id="id5" media-type="image/png"/>
     <item href="editor-pic.jpg" id="id6" media-type="image/jpeg"/>
   </manifest>
